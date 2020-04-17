@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "学校详情",
+  "usingComponents": {
+    "uni-tag": "/components/uni-tag/uni-tag",
+    "uni-fab": "/components/uni-fab/uni-fab",
+    "form-item": "/components/uni-form-item/uni-form-item",
+    "uploader": "/components/uni-uploader/uni-uploader"
+  }
+}

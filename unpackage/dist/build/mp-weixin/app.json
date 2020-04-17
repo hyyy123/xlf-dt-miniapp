@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/start/start",
+    "pages/Login/Login",
+    "pages/Home/Home",
+    "pages/school/school",
+    "pages/personal/index",
+    "pages/statistics/statistics",
+    "pages/system/system",
+    "pages/system/detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#007AFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "permission": {},
+  "usingComponents": {}
+}

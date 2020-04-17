@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "开通系统",
+  "usingComponents": {
+    "uni-fab": "/components/uni-fab/uni-fab",
+    "form-item": "/components/uni-form-item/uni-form-item",
+    "uploader": "/components/uni-uploader/uni-uploader"
+  }
+}

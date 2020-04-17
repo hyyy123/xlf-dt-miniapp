@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "usingComponents": {
+    "uni-tag": "/components/uni-tag/uni-tag",
+    "uni-fab": "/components/uni-fab/uni-fab",
+    "form-item": "/components/uni-form-item/uni-form-item"
+  }
+}
