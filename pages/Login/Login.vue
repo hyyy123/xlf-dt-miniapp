@@ -1,6 +1,5 @@
 <template>
-	<view class="view-form ">
-
+	<view class="view-form "> 
 		<view class="text-center" style=" color: #505050;margin: 30px 0px;">
 			<image class="logo_img" src="../../static/logo.png"></image>
 			<h5 style="padding:20px 0px 5px; font-weight: 600;">学来蜂</h5>
